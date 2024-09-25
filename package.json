@@ -1,0 +1,46 @@
+{
+  "name": "paredit-theme-d.js",
+  "version": "1.0.0",
+  "description": "Parser and editor for Theme-D s-expressions.",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "contributors": [
+     "Tommi Höynälänmaa <tommi.hoynalanmaa@iki.fi>",
+     "Robert Krahn"
+  ],
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/tohoyn/paredit-theme-d.js.git"    
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha tests/*-test.js"
+  },
+  "keywords": [
+    "paredit",
+    "lisp",
+    "code editor",
+    "programming",
+    "theme-d"
+  ],
+  "dependencies": {
+    "ace.improved": ">=0.1.4"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "chai-subset": "^0.3.0",
+    "concat": "^1.0.0",
+    "mocha": "^2.0.1",
+    "uglify-js": "^2.4.16"
+  },
+  "bundle": {
+    "files": [
+      "index.js",
+      "lib/util.js",
+      "lib/reader.js",
+      "lib/navigator.js",
+      "lib/editor.js"
+    ]
+  },
+  "author": "Tommi Höynälänmaa",
+  "license": "MIT"
+}
