@@ -7,7 +7,7 @@ This package provides Paredit support for the Theme-D programming language. In p
 
 ## Usage
 
-Use command `npm install -g` to install.
+Use command `npm install https://github.com/tohoyn/paredit-theme-d.js` to install.
 
 
 ## Dev
