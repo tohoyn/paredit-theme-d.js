@@ -2,6 +2,10 @@
 
 Trying to uphold semver. No guarantees though.
 
+## 1.0.3
+### Changed
+- Changed special forms iterate-2-lists-with-break and   iterate-2-lists-with-break-pure.
+
 ## 1.0.2
 ### Added
 - Added special forms iterate-2-lists, iterate-2-lists-pure,
