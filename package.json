@@ -1,6 +1,6 @@
 {
   "name": "paredit-theme-d.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Parser and editor for Theme-D s-expressions.",
   "main": "index.js",
   "typings": "index.d.ts",
