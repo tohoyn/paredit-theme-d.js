@@ -2,6 +2,12 @@
 
 Trying to uphold semver. No guarantees though.
 
+## 1.0.2
+### Added
+- Added special forms iterate-2-lists, iterate-2-lists-pure,
+  iterate-2-lists-with-break, iterate-2-lists-with-break-pure,
+  receive, and fluid-let.
+  
 ## 1.0.1
 ### Changed
 - Fixed the installation instructions in README.md.
