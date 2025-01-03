@@ -2,6 +2,10 @@
 
 Trying to uphold semver. No guarantees though.
 
+## 1.0.5
+### Changed
+- Updated indentation of match-type and match-type-weak.
+
 ## 1.0.4
 ### Added
 - Added some special forms.
